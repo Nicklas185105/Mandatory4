@@ -15,7 +15,7 @@ public class mandatory41 {
         int[] B = new int[n];
         int[] C = new int[n];
 
-        
+
 
 
     }
